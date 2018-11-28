@@ -1,0 +1,177 @@
+  290  git clone https://github.com/tengchoonhong90/command-line-murder-mystery.git
+  291  git init
+  292  ls -al
+  293  cd command-line-murder-mystery/
+  294  ls -al
+  295  sublime instructions
+  296  cat instructions
+  297  sublime instructions
+  298  clear
+  299  nano cheatsheet.md
+  300  sublime cheatsheet.md
+  301  touch solution.txt
+  302  ls -al
+  303  cd mystery/
+  304  ls -al
+  305  cat crimescene
+  306  ls -al
+  307  grep "CLUE" crimescene
+  308  grep "AAA" .
+  309  grep "AAA" *
+  310  grep "Delta Skymiles" *
+  311  cat interviews/
+  312  cd interviews/
+  313  ls -al
+  314  cat interview-000296
+  315  grep "Annabel" *
+  316  grep "Zealandl" *
+  317  grep "Zealand" *
+  318  cat interview--94126412
+  319  cat interview-94126412
+  320  grep 'barista' *
+  321  /files$ cat interview-94126412
+  322  ls -al
+  323  grep "Delta" *
+  324  grep "library" *
+  325  cd ../
+  326  grep -r "library"
+  327  pwd
+  328  ls -alt
+  329  cat people
+  330  grep "Zealand" people
+  331  grep "Annabel" people
+  332  grep -c "M" *
+  333  grep -c "M" people
+  334  ls -al
+  335  cd memberships/
+  336  ls -al
+  337  cat AAA
+  338  ls -al
+  339  touch common_membership
+  340  ls -al
+  341  rm -R common_membership
+  342  touch common_membership.txt
+  343  ls -al
+  344  cat Delta_SkyMiles
+  345  cat library.txt
+  346  ls -al
+  347  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt > common_membership.txt
+  348  sort common_membership.txt
+  349  cd ..
+  350  ls
+  351  cd ..
+  352  ls
+  353  sublime hint1
+  354  cd mystery/
+  355  head -n 20 people
+  356  cd ..
+  357  sublime hint2
+  358  sublime hint3
+  359  ls -al
+  360  cd mystery/
+  361  grep "Annabel" people
+  362  ls
+  363  cd streets/
+  364  cd
+  365  ls
+  366  pwd
+  367  cd Desktop/Exercises/
+  368  ls
+  369  cd command-line-murder-mystery/
+  370  ls
+  371  cd command-line-murder-mystery/
+  372  ls
+  373  cd my
+  374  cd mystery/
+  375  cd
+  376  pwd
+  377  cd Desktop/Exercises/command-line-murder-mystery/command-line-murder-mystery/mystery/
+  378  ls
+  379  cd streets/
+  380  ls
+  381  cd ..
+  382  ls
+  383  grep "Annabel" people
+  384  cd streets/
+  385  ls
+  386  cat Hart_Place
+  387  head -n 173 Mattapan_Street
+  388  cd ..
+  389  ls -al
+  390  cd interviews/
+  391  ls -al
+  392  cat interview-9437737
+  393  head -n 179 streets/Buckingham_Place
+  394  cd ..
+  395  ls
+  396  cd streets/
+  397  ls
+  398  head -n 179 Buckingham_Place
+  399  cd ..
+  400  ls
+  401  cd interviews/
+  402  cat interview-699607
+  403  ls -al
+  404  cd ..
+  405  cd vehicles
+  406  ls -al
+  407  grep "BLUE" vehicles
+  408  cat vehicles
+  409  grep "Blue" vehicles
+  410  grep -C 4 "Honda" vehicles
+  411  head vehicles
+  412  grep -r "L337" vehicles
+  413  grep -A "L337" vehicles
+  414  grep -A "L337" vehicles
+  415  grep -A 3 "L337" vehicles
+  416  cd ..
+  417  ls
+  418  cd mystery/
+  419  ls -al
+  420  grep "Erika" people
+  421  grep "Pilhofer" people
+  422  grep "Billings" people
+  423  grep "Germuska" people
+  424  grep "Bowers" people
+  425  grep "Maher" people
+  426  ls -al
+  427  grep "Germuska" people
+  428  grep -A 4 "Germuska" people
+  429  ls -al
+  430  cd streets/
+  431  ls -al
+  432  grep "Pilhofer"" Claybourne_Street
+grep "Pilhofer" Claybourne_Street
+pwd
+  433  grep "Pilhofer" Claybourne_Street
+  434  pwd
+  435  cat Claybourne_Street
+  436  ls -al
+  437  cd ..
+  438  ls -al
+  439  head -n 145 people
+  440  head -n 145 streets/CLaybourne_Street
+  441  head -n 275 streets/Plainfield_Street
+  442  head -n 284 streets/Dunstable_Road
+  443  ls -al
+  444  cd interviews/
+  445  ls -la
+  446  cat interview-1767435
+  447  cat interview-29741223
+  448  cat interview-9620713
+  449  pwd
+  450  cd ..
+  451  ls -al
+  452  cd memberships/
+  453  ls -al
+  454  touch common_membership_sorted.txt
+  455  sort common_membership | cat > common_membership_sorted.txt
+  456  sort common_membership.txt | cat > common_membership_sorted.txt
+  457  cat common_membership_sorted.txt
+  458  grep -A 4 "Bowers" common_membership_sorted.txt
+  459  cd ..
+  460  ls
+  461  cd ..
+  462  ls -al
+  463  cat solution.txt
+  464  history
